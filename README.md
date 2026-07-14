@@ -1,14 +1,14 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:111827,55:111827,100:FF4500&text=ADEYEMI%20OYINLOLA&fontColor=FFFFFF&fontSize=48&fontAlignY=37&desc=Software%20Engineer%20%7C%20AI%20Product%20Builder%20%7C%20Founder&descAlignY=58&descSize=17&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:111827,55:111827,100:FF4500&text=ADEYEMI%20OYINLOLA&fontColor=FFFFFF&fontSize=48&fontAlignY=37&desc=Business%20Technology%20Analyst%20%7C%20Software%20Engineer%20%7C%20AI%20Product%20Builder&descAlignY=58&descSize=17&animation=fadeIn"
   width="100%"
   alt="Adeyemi Oyinlola profile banner"
 />
 
 ### I build intelligent products that solve real operational problems.
 
-**Software Engineering • Applied AI • Healthcare Technology • Automation • SaaS**
+**Business Technology Analysis • Software Engineering • Applied AI • Healthcare Technology • Automation**
 
 [![Founder — Gridhouse Digital](https://img.shields.io/badge/Founder-Gridhouse_Digital-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gridhouse-digital)
 [![GitHub followers](https://img.shields.io/github/followers/adeyemi-o?style=for-the-badge&logo=github&label=Follow)](https://github.com/adeyemi-o?tab=followers)
@@ -20,12 +20,15 @@
 
 ## About Me
 
-I’m **Adeyemi Oyinlola**, a software engineer and AI product builder based in Ontario, Canada.
+I’m **Adeyemi Oyinlola**, a **Business Technology Analyst, software engineer, and AI product builder** based in Ontario, Canada.
 
-I founded **[Gridhouse Digital](https://github.com/gridhouse-digital)** to build practical software, intelligent automation, and AI-assisted operational systems for healthcare organizations, service businesses, and growing teams.
+My background combines business technology analysis, software engineering, public-sector I&IT experience, web development, and digital product delivery. I work across business and technical teams to understand operational needs, translate them into clear system requirements, and build practical technology solutions.
+
+I founded **[Gridhouse Digital](https://github.com/gridhouse-digital)** to build intelligent software, automation, and AI-assisted operational systems for healthcare organizations, service businesses, and growing teams.
 
 My work sits at the intersection of:
 
+- Business and systems analysis
 - Product engineering
 - Applied artificial intelligence
 - Healthcare operations and compliance
@@ -34,6 +37,19 @@ My work sits at the intersection of:
 - Modern web and SaaS development
 
 I care less about building impressive demos and more about creating systems that are **useful, secure, explainable, and ready for real-world operations**.
+
+## Professional Background
+
+- **Business Technology Analysis:** Connecting business objectives, user needs, workflows, and technical implementation
+- **Public-Sector Technology:** Experience supporting digital and I&IT initiatives within the Ontario public service
+- **Software and Web Engineering:** Building responsive applications, internal tools, integrations, and digital platforms
+- **Product and Delivery:** Turning operational problems into structured requirements, usable interfaces, and maintainable systems
+- **Entrepreneurship:** Founder of Gridhouse Digital, an AI-first digital engineering studio
+
+## Education
+
+- **Software Engineering Technician – Artificial Intelligence**, Centennial College
+- **Bachelor of Science in Computer Science**, Covenant University
 
 ## What I’m Building
 
@@ -166,6 +182,7 @@ When I’m not building products, I’m probably following football, watching ac
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-adeyemi--o-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adeyemi-o)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adeyemi_Oyinlola-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aoyinlola/)
 [![Gridhouse Digital](https://img.shields.io/badge/Gridhouse_Digital-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gridhouse-digital)
 [![X](https://img.shields.io/badge/X-@iamdebolax-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamdebolax)
 
